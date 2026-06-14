@@ -1,0 +1,8 @@
+#spring:
+#  application:
+#    name: world-hello
+
+spring:
+  docker:
+    compose:
+      enabled: false

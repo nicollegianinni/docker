@@ -1,0 +1,13 @@
+package world_hello;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class WorldHelloApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(WorldHelloApplication.class, args);
+	}
+
+}
